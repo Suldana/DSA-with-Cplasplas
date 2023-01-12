@@ -1,0 +1,55 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+//    Question 1 ~Area Of Circle Java Program
+//    double radius, area;
+//    cout<<"Enter the radius of circle: ";
+//    cin>>radius;
+//    area=3.14*radius*radius;
+//    cout<<"Area of circle is: ";
+//    cout<<area;
+
+
+//        Question 2 ~~Area Of Triangle
+//    double base, height, area;
+//    cout<<"Enter the area of triangle: ";
+//    cout<<"Enter base number"<<endl;
+//    cout<<"enter height number";
+//    cin>>base >> height;
+//    area=(base * height)/2;
+//    cout<<"Area of triangle is: ";
+//    cout<<area;
+
+
+//        Question 3 ~~Area Of Rectangle Program
+//    double width, length, area;
+////    cout<<"Enter the area of Rectangle: ";
+//    cout<<"Enter width number: "<<endl;
+//    cout<<"enter length number: ";
+//    cin>>width >> length;
+//    area=(width * length);
+//    cout<<"Area of Rectangle is: ";
+//    cout<<area;
+
+//        Question 4 ~~Area Of Isosceles Triangle
+//    double base, height, area;
+//    cout<<"Enter width number: "<<endl;
+//    cout<<"enter length number: ";
+//    cin>>base >> height;
+//    area=(base * height)/2;
+//    cout<<"Area Of Isosceles Triangle: ";
+//    cout<<area;
+
+
+//    Question 5 ~~Area Of Parallelogram~~
+    double base, height, area;
+    cout<<"Enter base number: "<<endl;
+    cout<<"enter height number: ";
+    cin>>base >> height;
+    area=(base * height);
+    cout<<"Area Of Parallelogram: ";
+    cout<<area;
+    return 0;
+
+}
